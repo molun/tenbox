@@ -6,22 +6,21 @@
     <description>TenBox Updates</description>
     <language>zh-CN</language>
     <item>
-      <title>Version 0.8.1</title>
+      <title>Version 0.8.2</title>
       <description><![CDATA[
         <ul>
-          <li>- 修复 LLM Proxy 在工具调用时超时问题</li>
-          <li>- 重要‼ 0.5.7 之前版本，请在升级前确保已备份虚拟机内的重要数据</li>
+          <li>- 更新网络相关功能</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 14 May 2026 00:00:00 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 -0000</pubDate>
       <sparkle:minimumSystemVersion>10</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://files.xiaozhi.me/tenbox/releases/TenBox_0.8.1.msi"
+        url="https://files.xiaozhi.me/tenbox/releases/TenBox_0.8.2.msi"
         sparkle:os="windows"
-        sparkle:version="0.8.1"
-        sparkle:shortVersionString="0.8.1"
+        sparkle:version="0.8.2"
+        sparkle:shortVersionString="0.8.2"
         sparkle:installerArguments="/passive"
-        length="3280896"
+        length="3284992"
         type="application/octet-stream"
       />
     </item>
